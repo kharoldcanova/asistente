@@ -1,0 +1,14 @@
+[
+    {
+        "pattern": "hola",
+        "response": "Hola, ¿en qué puedo ayudarte?"
+    },
+    {
+        "pattern": "adiós",
+        "response": "Hasta luego, ¡que tengas un buen día!"
+    },
+    {
+        "pattern": "gracias",
+        "response": "De nada, ¡siempre estoy aquí para ayudarte!"
+    }
+]
